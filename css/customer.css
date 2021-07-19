@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+
+}
+
+
+body{
+    padding:2%;
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}    
+
+table{
+    margin-top: 2%;
+}
+
+h1{
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #EEEEEE;
+    
+  
+}
+
+.back{
+    border-radius: 15px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #171010;
+    border: none;
+    color: white;
+    margin:auto;
+    margin-top: 2%;
+    display: block;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a{
+    text-decoration:none;
+}
+
+

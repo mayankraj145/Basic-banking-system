@@ -1,0 +1,96 @@
+body{
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #BD3F32, #CB356B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    margin-top: 1%;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    color: #ff0000;
+    padding-bottom: 2%;
+  
+}
+
+.registration-form{
+	padding: 50px 0;
+}
+
+.registration-form{
+    background-color: #FFBCBC;
+    max-width: 50%;
+    margin:auto;
+    padding: 50px 60px;
+    border-radius: 30px;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 8%);
+}
+
+.registration-form .item{
+	border-radius: 20px;
+    margin-bottom: 25px;
+    padding: 10px 20px;
+}
+
+.registration-form .btn-primary{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #5791ff;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    margin:auto;
+    display: block;
+}
+
+h2{
+    text-align:center;
+    padding-bottom: 10px;
+}
+
+.back{
+    border-radius: 15px;
+    padding: 20px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #161616;
+    border: none;
+    color: white;
+    margin:auto;
+    margin-top: 1%;
+    display: block;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.end:hover{
+    background: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+    background-color: #06ac46;
+}
+
+.start{
+    text-align: center;
+    
+}
+
+.end{
+    border-radius: 30px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+
+    background: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+
+    
+}
+

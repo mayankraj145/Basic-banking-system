@@ -1,0 +1,98 @@
+html{
+    scroll-behavior: smooth;
+    
+}
+
+
+body{
+    padding:2%;
+    background: #CB356B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #BD3F32, #CB356B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #BD3F32, #CB356B);
+
+}
+
+
+
+h1{
+    text-align:center;
+    color: #DDDDDD;
+    
+}
+
+ .debited{
+    width: 100%;
+    display: inline-block;
+    margin-right: 2%;
+
+}
+
+/*.debit{
+    display:inline-block;
+} */
+
+.half{
+width: 45%;
+display: inline-block;
+margin-right: 2%;
+/* float: left; */
+}
+
+.whole{
+    width: 100%;
+}
+
+.search{
+    border-radius: 30px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color:#161616;
+    border: none;
+    color: white;
+    margin:auto;
+    margin-top: 2%;
+    display: block;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.registration-form{
+	padding: 50px 0;
+}
+
+.registration_form{
+    background-color: #FFBCBC;
+    max-width: 55%;
+    margin: auto;
+    padding: 50px 60px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 8%);
+}
+
+
+.end{
+    border-radius: 30px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    margin:auto;
+    margin-top: 2%;
+    display: block;
+
+    background: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+
+    
+}
+
+.end:hover{
+    background: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+    background-color: #06ac46;
+}
