@@ -9,4 +9,4 @@ Front-end : HTML, CSS, Bootstrap & JavaScript</br>
 Back-end : PHP</br>
 Database : MySQL</br>
 ********************************
-**WEBSITE LINK-** (https://mj-web.000webhostapp.com/index.php)
+**WEBSITE LINK-** (http://funwebmj.000webhostapp.com/)
